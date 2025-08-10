@@ -33,22 +33,14 @@ Durante os dias de aprendizado, passamos por etapas fundamentais do fluxo de an�
 - Geração de gráficos em tempo real diretamente no dashboard.
 
 ## 🛠 Tecnologias Utilizadas
-- **Python 3**
-- **Pandas**
-- **Matplotlib**
-- **Plotly**
-- **Streamlit**
-- **Google Colab**
-
-## 📂 Estrutura do Projeto
-.
-├── app.py              # Código principal do dashboard Streamlit
-├── requirements.txt    # Lista de dependências do projeto
-└── README.md           # Documentação do projeto
+- Python 3.x: Linguagem principal.
+- Pandas: Para manipulação de dados.
+- Matplotlib e Seaborn: Para visualizações.
+- Streamlit: Para dashboards interativos.
+- Google Colab: Ambiente de desenvolvimento.
 
 🌐 Link do Dashboard
 Acesse o dashboard interativo hospedado no Streamlit Cloud:
 🔗 dados-com-python-alura.streamlit.app
 
-📜 Licença
-Este projeto é de uso educacional e não possui fins comerciais.
+*Este projeto é de uso educacional e não possui fins comerciais*
